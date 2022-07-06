@@ -16,6 +16,8 @@ A guide book for building long-lasting Knowledge Systems. This is a work-in-prog
   - Ted Nelson and Xanadu
   - Linking
     - One-way vs. Two-way
+  - Hierarchical vs. Network
+  - Tagging vs. Folder
 - Persistence
   - Binary vs. Text
   - DB vs. File
@@ -26,6 +28,8 @@ A guide book for building long-lasting Knowledge Systems. This is a work-in-prog
 - Editor
   - WYSIWYG vs. Source code
   - Pros and Cons of HTML
+  - Modal vs. Direct
+  - Block vs. Plaintext
 - Data synchronization
   - Eventual consistency vs. Strong consistency
   - Row-level consistency
