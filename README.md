@@ -18,6 +18,8 @@ A guide book for building long-lasting Knowledge Systems. This is a work-in-prog
     - One-way vs. Two-way
   - Hierarchical vs. Network
   - Tagging vs. Folder
+  - Feed (recent-first) vs. Chronology (oldest first)
+    - Two tier approach: Chronology nested in Feed 
 - Persistence
   - Binary vs. Text
   - DB vs. File
