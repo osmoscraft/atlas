@@ -11,6 +11,8 @@ A guide book for building long-lasting Knowledge Systems. This is a work-in-prog
   - Build for change
 - Topology
   - Transclusion
+    - Structural sharing
+    - Delta compression
   - Graph vs. Linear
   - Just-in-time linearization
   - Ted Nelson and Xanadu
